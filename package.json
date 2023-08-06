@@ -1,5 +1,5 @@
 {
-  "name": "gulp",
+  "name": "mad_maxx_builder",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "scripts": {
@@ -29,5 +29,13 @@
     "sass": "^1.64.1",
     "ttf2woff2": "^5.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksatweb/MMBuilder-Template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksatweb/MMBuilder-Template/issues"
+  },
+  "homepage": "https://github.com/niksatweb/MMBuilder-Template#readme",
   "description": ""
 }
